@@ -1,13 +1,13 @@
 # goApk
 Golang APK Downloader
 
-## INSTALLATION
+## Installation
 * Install [Golang](https://golang.org/dl/)
 * `$ go get "github.com/cavaliercoder/grab"`
 * `$ go get ""github.com/buger/goterm"`
 
-## USAGE
+## Usage
 * `$ go build` to compile or `$ go run main.go`
 
-## PREVIEW
-[![asciicast](https://asciinema.org/a/420816.png)](https://asciinema.org/a/420816)
+## Preview
+[![asciicast](https://asciinema.org/a/420816.png)](https://asciinema.org/a/420816?autoplay=1)
