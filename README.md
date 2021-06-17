@@ -8,3 +8,6 @@ Golang APK Downloader
 
 ## USAGE
 * `$ go build` to compile or `$ go run main.go`
+
+## PREVIEW
+[![asciicast](https://asciinema.org/a/420816.png)](https://asciinema.org/a/420816)
