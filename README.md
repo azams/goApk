@@ -1,5 +1,7 @@
 # goApk
-Golang APK Downloader (Unofficial)
+Golang APK Downloader
+
+### !!!Warning: The APK will not be downlaoded from official Google site!!!
 
 ## Installation
 * Install [Golang](https://golang.org/dl/)
