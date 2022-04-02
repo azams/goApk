@@ -12,7 +12,7 @@ import (
 	"time"
 	"log"
 
-	"github.com/cavaliercoder/grab"
+	"github.com/cavaliercoder/grab/v3"
 	tm "github.com/buger/goterm"
 )
 
